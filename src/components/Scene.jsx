@@ -107,6 +107,6 @@ export const Scene = ({ mainColor, path, ...props }) => {
   );
 };
 
-useGLTF.preload("/model/carrera_scene.glb");
-useGLTF.preload("/model/clubsport_scene.glb");
-useGLTF.preload("/model/turbo.glb");
+useGLTF.preload("/models/carrera_scene.glb");
+useGLTF.preload("/models/clubsport_scene.glb");
+useGLTF.preload("/models/turbo.glb");
