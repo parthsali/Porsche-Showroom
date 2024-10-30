@@ -1,3 +1,3 @@
 # Porsche Showroom
 
-![demo]("public/image.png")
+![demo](public/image.png)
